@@ -64,4 +64,4 @@ function permutationGen(a, n)
     end
 end
 
-permgen( { 1, 2, 3, 4 }, 4)
+permutationGen( { 1, 2, 3, 4 }, 4)
